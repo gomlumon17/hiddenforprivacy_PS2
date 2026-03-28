@@ -1,0 +1,6 @@
+Data/
+archive/
+dataset-resized/
+*.h5
+*.pkl
+.venv/
